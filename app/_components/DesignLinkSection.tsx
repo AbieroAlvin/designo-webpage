@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { AnimatePresence, motion } from "framer-motion";
+import { motion } from "framer-motion";
 import DesktopWebDesign from "@/public/home/desktop/image-web-design-small.jpg";
 import DesktopAppDesign from "@/public/home/desktop/image-app-design.jpg";
 import DesktopGraphicDesign from "@/public/home/desktop/image-graphic-design.jpg";

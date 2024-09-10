@@ -11,7 +11,7 @@ type DesignBoxProps = {
 };
 
 function DesignBox({ data }: { data: DesignBoxProps[] }) {
-  const [ref, inView] = useInView({
+  const [ref] = useInView({
     triggerOnce: true,
     threshold: 0.1,
   });

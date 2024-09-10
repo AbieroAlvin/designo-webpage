@@ -27,7 +27,7 @@ function ContactForm() {
     reset,
   } = useForm<FormDataProps>();
 
-  function onSubmit(data: FormDataProps) {
+  function onSubmit() {
     toast.success("Your message has been sent!");
     reset();
   }
