@@ -6,11 +6,14 @@ const config: Config = {
     "./components/**/*.{js,ts,jsx,tsx,mdx}",
     "./app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
-  theme: {
+   theme: {
     extend: {
-      colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+      screens: {
+        desktop: { max: "90em" },
+        miniDesktop: { max: "75em" },
+        laptop: { max: "64em" },
+        tablet: { max: "43.75em" },
+        mobile: { max: "30em" },
       },
     },
   },
