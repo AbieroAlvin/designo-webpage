@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Olatoyan/designo-multipage-website](https://github.com/Olatoyan/designo-multipage-website)
-- Live Site URL: [https://toyan-designo.vercel.app/](https://toyan-designo.vercel.app/)
+- Solution URL: 
+- Live Site URL: 
 
 ## My process
 
@@ -41,6 +41,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [My Portfolio](https://toyan.vercel.app)
-- Frontend Mentor - [@olatoyan](https://www.frontendmentor.io/profile/olatoyan)
-- Twitter - [@Toyan](https://www.twitter.com/_annonnymouss_)
+- Website - 
+- Frontend Mentor -
+- Twitter - 
